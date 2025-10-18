@@ -1,0 +1,2 @@
+puts "text sample".reverse
+
